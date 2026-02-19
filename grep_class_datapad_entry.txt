@@ -1,0 +1,1 @@
+./dsrc/sku.0/sys.server/compiled/game/script/holocron/datapad_entry.java:6:public class datapad_entry extends script.base_script
